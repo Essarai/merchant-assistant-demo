@@ -1,0 +1,116 @@
+{
+  "01-欢迎.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 239325
+  },
+  "02-商户类型.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 225864
+  },
+  "03-身份证认证.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 182401
+  },
+  "04-结算卡.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 157246
+  },
+  "05-认证核对.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 209715
+  },
+  "06-扫码绑定.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 206955
+  },
+  "07-首页.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 265177
+  },
+  "08-金额明细.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 261769
+  },
+  "09-交易明细.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 203031
+  },
+  "10-AI助手.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 264072
+  },
+  "11-趋势分析.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 280051
+  },
+  "12-历史会话.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 128072
+  },
+  "13-历史报告.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 216739
+  },
+  "14-我的.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 190822
+  },
+  "15-支付渠道.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 230423
+  },
+  "16-渠道签约资料.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 241727
+  },
+  "17-设置.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 169888
+  },
+  "18-设备管理.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 181629
+  },
+  "19-我的扫码绑定.png": {
+    "width": 1179,
+    "height": 2556,
+    "format": "PNG",
+    "bytes": 178445
+  }
+}
